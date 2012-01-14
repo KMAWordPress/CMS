@@ -28,7 +28,7 @@ foreach ($options as $value) {
 <body <?php body_class(); ?>>
 <div id="header">
 	<div id="logo">
-		<div id="h1"><a href="<?php echo get_option('home'); ?>/">
+		<div id="h1" style="font-size:18px"><a href="<?php echo get_option('home'); ?>/">
 			<?php if ($voidy_logo) { 
 				echo "<img src='".$voidy_logo."' style='".$voidy_logo_style."' alt='".get_bloginfo('name')."' />";
 			} else { bloginfo('name'); } ?>
