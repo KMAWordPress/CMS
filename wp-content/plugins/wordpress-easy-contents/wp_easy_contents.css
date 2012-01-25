@@ -1,0 +1,42 @@
+#easy_contents * {
+	margin: 0;
+	padding: 0;
+	}
+
+.easysmallcontents{
+	float: right;
+	width: 200px;
+	margin: 0 0 10px 10px;
+	background-color: #EFEFEF;
+	padding: 5px 10px;
+	}
+	
+.easylargecontents{ 
+	width: 200px;
+	background-color: #EFEFEF;
+	padding: 10px;
+	}
+
+.easycontentshead {
+	font: bold 1.4em 'Trebuchet MS','Lucida Grande',Verdana,Arial,Sans-Serif;
+	margin-bottom: 10px 0px 4px 0px;
+	color: #2F5B7F;	
+	}
+	
+#easy_contents ol li {
+	list-style-type: none;
+	}
+
+#easy_contents ol li a:link {
+	color: #6BADE1;
+	text-decoration: none;
+	}
+	
+#easy_contents ol li a:visited {
+	text-decoration: none;
+	color: #4281B7;
+	}
+	
+#easy_contents ol li a:hover {
+	text-decoration: underline;
+	}

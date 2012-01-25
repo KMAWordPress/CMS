@@ -368,8 +368,8 @@ ul.authorposts li em {
 
 #content {
 	float:left;
-	padding:10px 62px 10px 68px;
-	width:570px;
+	padding:5px 20px 10px 20px;
+	width:640px;
 }
 /* Column Two */
 
@@ -523,7 +523,7 @@ input.go {
 	background-color:#ddd;
 	border:3px solid #ddd;
 	color:#999;
-	font-size:13px;
+	font-size:11px;
 	font-weight:bold;
 	height:38px;
 	margin-left:-4px;
